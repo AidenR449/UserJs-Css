@@ -1,0 +1,237 @@
+.ic-DashboardCard__header_image {
+  background-image: url("https://instructure-uploads.s3.amazonaws.com/account_31150000000000001/attachments/5994290/NHMS%20Trojans.png?response-content-disposition=attachment%3B%20filename%3D%22White%20background%20Trojan%20Logo.png%22%3B%20filename%2A%3DUTF-8%27%27White%2520background%2520Trojan%2520Logo.png&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJDW777BLV26JM2MQ%2F20200825%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200825T213702Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8c20620c38600e761881249906bf3d33f121dcfc132fd41c83a562e6d1add31b") !important;
+}
+
+.ic-app-header__logomark {
+    background-image: url(https://du11hjcvx0uqb.cloudfront.net/br/dist/images/favicon-e10d657a73.ico);
+    background-color: #262626;
+    background-size: 65px;
+}
+
+body {
+    background-color: #333;
+}
+
+.ic-Dashboard-header__title {
+    background-color: #333;
+}
+
+.ic-Dashboard-header__layout {
+    background-color: #333;
+}
+
+.ic-app-header__main-navigation {
+    background-color: #262626;
+}
+
+h1, h2, .h1, .h2 {
+    color: #6385d4;
+}
+
+.ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link {
+    background: #66666666;
+}
+
+.eHiXd_bGBk *, a.eHiXd_bGBk *, button.eHiXd_bGBk *, button.eHiXd_bGBk[type="button"] *, button.eHiXd_bGBk[type="reset"] *, button.eHiXd_bGBk[type="submit"] * {;
+    pointer-events: none;
+    color: #757575;
+}
+
+.ic-DashboardCard {
+  background: #404040;
+}
+
+/*?*/
+.ic-DashboardCard__header_content {
+  background: #404040;
+  color: #
+}
+
+h3.ic-DashboardCard__header-title [style] {
+  color: #c2c2c2 !important;
+}
+
+.ic-DashboardCard__header-term {
+  visibility: hidden;
+}
+
+.ic-app-main-content__secondary {
+  visibility: hidden;
+  max-height: 0px;
+}
+
+.ic-app-footer {
+  visibility: hidden;
+  max-height: 0px;
+}
+
+tbody {
+  color: #fff;
+}
+
+.ic-app-course-menu #section-tabs-header-subtitle {
+  color: #8a8a8a;
+}
+
+#breadcrumbs>ul>li>a>span {
+  background-color: #333;
+  color: #fff;
+}
+
+#breadcrumbs>ul>li {
+  color: #fff;
+}
+
+#breadcrumbs>ul {
+  background-color: #333;
+}
+
+a {
+  color: #008ee2;
+}
+
+.list-view a.active {
+  color: #81c5ef;
+}
+
+.header-bar {
+  background-color: #333;
+}
+
+.pages.show .show-content {
+  color: #fff;
+}
+
+.pages.show .page-title {
+  color: #adadad;
+}
+
+.item-group-container {
+  background-color: #333;
+}
+
+.ig-header.header {
+  background-color: #333;
+}
+
+.ig-row.ig-published.student-view {
+  background-color: #333;
+}
+
+.context_module_item .type_icon .icon-document {
+  color: #fff;
+}
+
+.ig-list .ig-row a.ig-title {
+  color: #fff;
+}
+
+.ig-header .name {
+  color: #fff;
+  text-shadow: none;
+}
+
+i[class*=icon-]:before, i[class^=icon-]:before, a[class*=icon-]:before, a[class^=icon-]:before {
+  caolor: #a5a5a5;
+}
+
+i[class*=icon-]:after, i[class^=icon-]:after, a[class*=icon-]:after, a[class^=icon-]:after {
+  caolor: #a5a5a5;
+}
+
+
+.ic-app-header__menu-list-link.ic-app-header__menu-list-link--nav-toggle {
+  background-color: #248afe;
+}
+
+.ic-DashboardCard__header-button-bg {
+  background-color: #606b78 !important;
+}
+
+.ic-item-row__content-col h3 {
+  color: #fff;
+}
+
+.ic-announcement-row__content {
+  visibility: hidden;
+}
+
+.ic-item-row__meta-content-heading {
+  color: #ababab;
+}
+
+.toolbarView .headerBar {
+  background-color: #333;
+}
+
+.user_content, .mceContentBody {
+  color: #fff
+}
+.topic h1.discussion-title {
+  color: #5789fe
+}
+
+.module-sequence-footer-content {
+	background-color: #333;
+}
+
+i[class*="icon-"]::before, i[class^="icon-"]::before, a[class*="icon-"]::before, a[class^="icon-"]::before {
+    color: #686868;
+}
+
+.btn#expand_collapse_all {
+    background: #8c8c8c;
+    color: #396686;
+}
+
+.pill>li:last-child {
+	color: #b1b1b1;
+}
+
+#submit_online_upload_form {
+	background-color: #515151;
+}
+
+.ui-tabs-nav.ui-helper-reset.ui-helper-clearfix.ui-widget-header.ui-corner-all {
+	background-color: #515151;
+}
+
+.Button.Button--icon-action-rev.ic-DashboardCard__header-button {
+  display: none;
+}
+
+div.ic-DashboardCard__header-button-bg {
+  display: none;
+}
+
+#quiz_student_details {
+  color: #CECECE;
+}
+
+.btn.btn-primary {
+  color: #E1E1E1;
+}
+
+.assessing {
+  background-color: #414141;
+}
+
+.student-assignment-overview {
+  color: #cecece;
+}
+div.question_text.user_content.enhanced {
+  color: #333;
+}
+
+thead tr th {
+  color: #ccc;
+}
+
+div div h3 {
+  color: #ccc;
+}
+
+/*removes the alert that they cant track you :)*/
+div.ic-flash-static.ic-flash-error {
+  display: none;
+}
